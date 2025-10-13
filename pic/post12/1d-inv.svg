@@ -1,1 +1,267 @@
-<svg width="418" height="281" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden"><defs><clipPath id="clip0"><rect x="0" y="0" width="418" height="281"/></clipPath><clipPath id="clip1"><rect x="0" y="0" width="418" height="281"/></clipPath></defs><g clip-path="url(#clip0)"><g clip-path="url(#clip1)"><path d="M0 0 501.5 0 501.5 313.437 0 313.437Z" fill="#F8F9FA" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="700" font-stretch="normal" font-size="14" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 31.3437 11)">Input features (1, 10):</text><path d="M31.3437 50.15 56.4187 50.15 56.4187 75.225 31.3437 75.225Z" stroke="#1565C0" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#90CAF9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M56.4187 50.15 81.4937 50.15 81.4937 75.225 56.4187 75.225Z" stroke="#1565C0" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#90CAF9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M81.4937 50.15 106.569 50.15 106.569 75.225 81.4937 75.225Z" stroke="#1565C0" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#90CAF9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M106.569 50.15 131.644 50.15 131.644 75.225 106.569 75.225Z" stroke="#1565C0" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#90CAF9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M131.644 50.15 156.719 50.15 156.719 75.225 131.644 75.225Z" stroke="#1565C0" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#90CAF9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M156.719 50.15 181.794 50.15 181.794 75.225 156.719 75.225Z" stroke="#1565C0" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#90CAF9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M181.794 50.15 206.869 50.15 206.869 75.225 181.794 75.225Z" stroke="#1565C0" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#90CAF9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M206.869 50.15 231.944 50.15 231.944 75.225 206.869 75.225Z" stroke="#1565C0" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#90CAF9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M231.944 50.15 257.019 50.15 257.019 75.225 231.944 75.225Z" stroke="#1565C0" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#90CAF9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M257.019 50.15 282.094 50.15 282.094 75.225 257.019 75.225Z" stroke="#1565C0" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#90CAF9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 41.8125 33)">0</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 66.8875 33)">1</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 91.9625 33)">2</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 117.037 33)">3</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 142.112 33)">4</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 167.187 33)">5</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 192.262 33)">6</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 217.337 33)">7</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 242.412 33)">8</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 267.487 33)">9</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="700" font-stretch="normal" font-size="14" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 166.373 63)">Kernel-Gen Net</text><path d="M180.226 106.569C183.689 106.569 186.495 109.375 186.495 112.837L186.495 162.987C186.495 166.45 183.689 169.256 180.226 169.256L67.389 169.256C63.9269 169.256 61.1203 166.45 61.1203 162.987L61.1203 112.837C61.1203 109.375 63.9269 106.569 67.389 106.569Z" stroke="#FF9800" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#FFECB3" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 98.7327 90)">1x1 Conv (</text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 135.091 90)">降维</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 150.136 90)">)</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 90.6461 102)">BatchNorm + Swish</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 102.682 115)">Dropout(0.2)</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 95.9118 127)">1x1 Conv (</text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 132.271 127)">生成核</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 154.838 127)">)</text><path d="M156.719 106.569 153.584 100.3 159.853 100.3 156.719 106.569Z" fill="#1565C0" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M120.861 169.256 120.861 185.053" stroke="#FF9800" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" fill-rule="nonzero" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M120.861 190.445 117.727 184.991 123.996 184.991 120.861 190.445Z" fill="#FF9800" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M9.40312 213.137 31.3437 213.137 31.3437 235.078 9.40312 235.078Z" stroke="#FFA000" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#FFF176" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M31.3437 213.137 53.2843 213.137 53.2843 235.078 31.3437 235.078Z" stroke="#FFA000" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#FFF59D" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M53.2843 213.137 75.225 213.137 75.225 235.078 53.2843 235.078Z" stroke="#FFA000" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#FFF176" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 28.9616 174)">位置</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 44.0066 174)">2</text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 48.2067 174)">的核</text><path d="M90.8968 213.137 112.837 213.137 112.837 235.078 90.8968 235.078Z" stroke="#E65100" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#FFB74D" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M112.837 213.137 134.778 213.137 134.778 235.078 112.837 235.078Z" stroke="#E65100" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#FFCC80" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M134.778 213.137 156.719 213.137 156.719 235.078 134.778 235.078Z" stroke="#E65100" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#FFB74D" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 110.455 174)">位置</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 125.5 174)">5</text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 129.7 174)">的核</text><path d="M172.391 213.137 194.331 213.137 194.331 235.078 172.391 235.078Z" stroke="#558B2F" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#AED581" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M194.331 213.137 216.272 213.137 216.272 235.078 194.331 235.078Z" stroke="#558B2F" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#C5E1A5" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M216.272 213.137 238.212 213.137 238.212 235.078 216.272 235.078Z" stroke="#558B2F" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#AED581" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 191.949 174)">位置</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 206.994 174)">8</text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 211.194 174)">的核</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="700" font-stretch="normal" font-size="14" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 335.378 76)">extract_patches</text><path d="M388.662 121.488C392.124 121.488 394.931 124.295 394.931 127.757L394.931 165.37C394.931 168.832 392.124 171.638 388.662 171.638L275.825 171.638C272.363 171.638 269.556 168.832 269.556 165.37L269.556 127.757C269.556 124.295 272.363 121.488 275.825 121.488Z" stroke="#8E24AA" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#E1BEE7" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 275.386 109)">对每个位置提取</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 328.043 109)">kernel_size</text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 366.095 109)">大小的</text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 296.01 127)">局部区域</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 326.1 127)"> (</text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 330.676 127)">窗口大小</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 360.766 127)">=3)</text><path d="M332.244 96.4133 332.244 121.488" stroke="#1565C0" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="3.13437 1.88062" stroke-opacity="1" fill="none" fill-rule="nonzero" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M332.244 121.488 329.109 115.22 335.378 115.22 332.244 121.488Z" fill="#1565C0" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M332.244 171.638 332.244 190.445" stroke="#8E24AA" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" fill-rule="nonzero" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M332.244 190.445 329.109 184.176 335.378 184.176 332.244 190.445Z" fill="#8E24AA" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="700" font-stretch="normal" font-size="14" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 338.888 230)">Involution</text><path d="M390.104 191.51C393.566 191.51 396.373 194.317 396.373 197.779L396.373 241.66C396.373 245.122 393.566 247.929 390.104 247.929L277.267 247.929C273.805 247.929 270.998 245.122 270.998 241.66L270.998 197.779C270.998 194.317 273.805 191.51 277.267 191.51Z" stroke="#388E3C" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#C8E6C9" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 282.282 175)">1. </text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 290.619 175)">位置特定卷积核</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 343.277 175)"> × </text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 351.865 175)">局部区域</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 282.282 189)">2. </text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 290.619 189)">沿</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 298.142 189)">kernel_size</text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 336.193 189)">维度求和</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 282.282 203)">3. </text><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 290.619 203)">生成输出特征</text><path d="M332.244 248.054 332.244 277.141" stroke="#388E3C" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" fill-rule="nonzero" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M332.244 277.141 327.793 267.425 336.694 267.425 332.244 277.141Z" fill="#388E3C" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M120.861 244.92 120.861 259.463" stroke="#388E3C" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" fill-rule="nonzero" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M120.861 259.463 332.244 259.463" stroke="#388E3C" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="none" fill-rule="nonzero" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Microsoft YaHei,Microsoft YaHei_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="14" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 232.194 260)">输出特征</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="700" font-stretch="normal" font-size="14" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 267.299 260)">:</text><path d="M278.082 277.141 303.157 277.141 303.157 302.216 278.082 302.216Z" stroke="#388E3C" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#A5D6A7" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M303.157 277.141 328.232 277.141 328.232 302.216 303.157 302.216Z" stroke="#388E3C" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#A5D6A7" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M328.232 277.141 353.307 277.141 353.307 302.216 328.232 302.216Z" stroke="#388E3C" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#A5D6A7" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M353.307 277.141 378.382 277.141 378.382 302.216 353.307 302.216Z" stroke="#388E3C" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" fill="#A5D6A7" fill-rule="nonzero" fill-opacity="1" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 288.488 260)">0</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 313.563 260)">1</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 338.638 260)">2</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="12" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.626875 0 0 0.627624 363.713 260)">3</text><path d="M125.375 75.225 125.375 81.4937 156.719 81.4937 156.719 106.569" stroke="#1565C0" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="3.13437 1.88062" stroke-opacity="1" fill="none" fill-rule="nonzero" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M188.062 75.225 188.062 81.4937 332.244 81.4937 332.244 106.569" stroke="#1565C0" stroke-width="1.25375" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="3.13437 1.88062" stroke-opacity="1" fill="none" fill-rule="nonzero" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><path d="M2.82094 190.445 257.019 190.445 257.019 244.356 2.82094 244.356Z" stroke="#091707" stroke-width="0.626875" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="3.13437 1.88062" stroke-opacity="1" fill="none" fill-rule="nonzero" transform="matrix(1 0 0 1.0012 0 -32.8122)"/><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="24" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.689562 0 0 0.627624 77.7325 193)">...</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="24" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.689562 0 0 0.627624 159.853 193)">...</text><text fill="#000000" fill-opacity="1" font-family="Arial,Arial_MSFontService,sans-serif" font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="24" text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none" transform="matrix(0.689562 0 0 0.627624 242.412 193)">...</text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 418 281">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5 {
+        fill: none;
+      }
+
+      .st6, .st7, .st8, .st9, .st10 {
+        isolation: isolate;
+      }
+
+      .st6, .st9 {
+        font-size: 7.5px;
+      }
+
+      .st6, .st10 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .st11 {
+        fill: #1565c0;
+      }
+
+      .st12 {
+        fill: #8e24aa;
+      }
+
+      .st13 {
+        fill: #c8e6c9;
+      }
+
+      .st13, .st14, .st1, .st2, .st15, .st4, .st5 {
+        stroke-width: 1.3px;
+      }
+
+      .st13, .st16, .st1 {
+        stroke: #388e3c;
+      }
+
+      .st14 {
+        fill: #e1bee7;
+      }
+
+      .st14, .st4 {
+        stroke: #8e24aa;
+      }
+
+      .st16 {
+        fill: #a5d6a7;
+      }
+
+      .st16, .st3, .st17, .st18, .st19, .st20, .st21, .st22, .st23 {
+        stroke-width: .6px;
+      }
+
+      .st24 {
+        fill: #388e3c;
+      }
+
+      .st2, .st3 {
+        stroke-dasharray: 3.1 1.9;
+      }
+
+      .st2, .st18 {
+        stroke: #1565c0;
+      }
+
+      .st3 {
+        stroke: #091707;
+      }
+
+      .st17 {
+        fill: #fff176;
+      }
+
+      .st17, .st19 {
+        stroke: #ffa000;
+      }
+
+      .st18 {
+        fill: #90caf9;
+      }
+
+      .st19 {
+        fill: #fff59d;
+      }
+
+      .st15 {
+        fill: #ffecb3;
+      }
+
+      .st15, .st5 {
+        stroke: #ff9800;
+      }
+
+      .st7 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st7, .st10 {
+        font-size: 8.8px;
+      }
+
+      .st25 {
+        fill: #ff9800;
+      }
+
+      .st26 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st20 {
+        fill: #ffb74d;
+      }
+
+      .st20, .st21 {
+        stroke: #e65100;
+      }
+
+      .st27 {
+        fill: #f8f9fa;
+      }
+
+      .st8 {
+        font-size: 15.1px;
+      }
+
+      .st8, .st9 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st21 {
+        fill: #ffcc80;
+      }
+
+      .st22 {
+        fill: #c5e1a5;
+      }
+
+      .st22, .st23 {
+        stroke: #558b2f;
+      }
+
+      .st23 {
+        fill: #aed581;
+      }
+
+      .st28 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" width="418" height="281"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" width="418" height="281"/>
+    </clipPath>
+  </defs>
+  <g class="st28">
+    <g class="st26">
+      <g>
+        <path class="st27" d="M0-32.8h501.5v313.8H0V-32.8Z"/>
+        <text class="st7" transform="translate(31.3 11)"><tspan x="0" y="0">Input features (1, 10):</tspan></text>
+        <path class="st18" d="M31.3,17.4h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st18" d="M56.4,17.4h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st18" d="M81.5,17.4h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st18" d="M106.6,17.4h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st18" d="M131.6,17.4h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st18" d="M156.7,17.4h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st18" d="M181.8,17.4h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st18" d="M206.9,17.4h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st18" d="M231.9,17.4h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st18" d="M257,17.4h25.1v25.1h-25.1v-25.1Z"/>
+        <text class="st9" transform="translate(41.8 33)"><tspan x="0" y="0">0</tspan></text>
+        <text class="st9" transform="translate(66.9 33)"><tspan x="0" y="0">1</tspan></text>
+        <text class="st9" transform="translate(92 33)"><tspan x="0" y="0">2</tspan></text>
+        <text class="st9" transform="translate(117 33)"><tspan x="0" y="0">3</tspan></text>
+        <text class="st9" transform="translate(142.1 33)"><tspan x="0" y="0">4</tspan></text>
+        <text class="st9" transform="translate(167.2 33)"><tspan x="0" y="0">5</tspan></text>
+        <text class="st9" transform="translate(192.3 33)"><tspan x="0" y="0">6</tspan></text>
+        <text class="st9" transform="translate(217.3 33)"><tspan x="0" y="0">7</tspan></text>
+        <text class="st9" transform="translate(242.4 33)"><tspan x="0" y="0">8</tspan></text>
+        <text class="st9" transform="translate(267.5 33)"><tspan x="0" y="0">9</tspan></text>
+        <text class="st7" transform="translate(166.4 63)"><tspan x="0" y="0">Kernel-Gen Net</tspan></text>
+        <path class="st15" d="M180.2,73.9c3.5,0,6.3,2.8,6.3,6.3v50.2c0,3.5-2.8,6.3-6.3,6.3h-112.8c-3.5,0-6.3-2.8-6.3-6.3v-50.2c0-3.5,2.8-6.3,6.3-6.3h112.8Z"/>
+        <text class="st9" transform="translate(101.2 90)"><tspan x="0" y="0">1D Conv (</tspan></text>
+        <text class="st6" transform="translate(135.1 90)"><tspan x="0" y="0">降维</tspan></text>
+        <text class="st9" transform="translate(150.1 90)"><tspan x="0" y="0">)</tspan></text>
+        <text class="st9" transform="translate(90.6 102)"><tspan x="0" y="0">BatchNorm + Swish</tspan></text>
+        <text class="st9" transform="translate(102.7 115)"><tspan x="0" y="0">Dropout(0.2)</tspan></text>
+        <text class="st9" transform="translate(95.9 127)"><tspan x="0" y="0" xml:space="preserve"> 1D Conv (</tspan></text>
+        <text class="st6" transform="translate(132.3 127)"><tspan x="0" y="0">生成核</tspan></text>
+        <text class="st9" transform="translate(154.8 127)"><tspan x="0" y="0">)</tspan></text>
+        <path class="st11" d="M156.7,73.9l-3.1-6.3h6.3l-3.1,6.3Z"/>
+        <path class="st5" d="M120.9,136.6v15.8"/>
+        <path class="st25" d="M120.9,157.9l-3.1-5.5h6.3l-3.1,5.5Z"/>
+        <path class="st17" d="M9.4,180.6h21.9v22H9.4v-22Z"/>
+        <path class="st19" d="M31.3,180.6h21.9v22h-21.9v-22Z"/>
+        <path class="st17" d="M53.3,180.6h21.9v22h-21.9v-22Z"/>
+        <text class="st6" transform="translate(29 174)"><tspan x="0" y="0">位置</tspan></text>
+        <text class="st9" transform="translate(44 174)"><tspan x="0" y="0">2</tspan></text>
+        <text class="st6" transform="translate(48.2 174)"><tspan x="0" y="0">的核</tspan></text>
+        <path class="st20" d="M90.9,180.6h21.9v22h-21.9v-22Z"/>
+        <path class="st21" d="M112.8,180.6h21.9v22h-21.9v-22Z"/>
+        <path class="st20" d="M134.8,180.6h21.9v22h-21.9v-22Z"/>
+        <text class="st6" transform="translate(110.5 174)"><tspan x="0" y="0">位置</tspan></text>
+        <text class="st9" transform="translate(125.5 174)"><tspan x="0" y="0">5</tspan></text>
+        <text class="st6" transform="translate(129.7 174)"><tspan x="0" y="0">的核</tspan></text>
+        <path class="st23" d="M172.4,180.6h21.9v22h-21.9v-22Z"/>
+        <path class="st22" d="M194.3,180.6h21.9v22h-21.9v-22Z"/>
+        <path class="st23" d="M216.3,180.6h21.9v22h-21.9v-22Z"/>
+        <text class="st6" transform="translate(191.9 174)"><tspan x="0" y="0">位置</tspan></text>
+        <text class="st9" transform="translate(207 174)"><tspan x="0" y="0">8</tspan></text>
+        <text class="st6" transform="translate(211.2 174)"><tspan x="0" y="0">的核</tspan></text>
+        <text class="st7" transform="translate(335.4 76)"><tspan x="0" y="0">extract_patches</tspan></text>
+        <path class="st14" d="M388.7,88.8c3.5,0,6.3,2.8,6.3,6.3v37.7c0,3.5-2.8,6.3-6.3,6.3h-112.8c-3.5,0-6.3-2.8-6.3-6.3v-37.7c0-3.5,2.8-6.3,6.3-6.3h112.8Z"/>
+        <text class="st6" transform="translate(275.4 109)"><tspan x="0" y="0">对每个位置提取</tspan></text>
+        <text class="st9" transform="translate(328 109)"><tspan x="0" y="0">kernel_size</tspan></text>
+        <text class="st6" transform="translate(366.1 109)"><tspan x="0" y="0">大小的</tspan></text>
+        <text class="st6" transform="translate(296 127)"><tspan x="0" y="0">局部区域</tspan></text>
+        <text class="st9" transform="translate(326.1 127)"><tspan x="0" y="0" xml:space="preserve"> (</tspan></text>
+        <text class="st6" transform="translate(330.7 127)"><tspan x="0" y="0">窗口大小</tspan></text>
+        <text class="st9" transform="translate(360.8 127)"><tspan x="0" y="0">=3)</tspan></text>
+        <path class="st2" d="M332.2,63.7v25.1"/>
+        <path class="st11" d="M332.2,88.8l-3.1-6.3h6.3l-3.1,6.3Z"/>
+        <path class="st4" d="M332.2,139v18.8"/>
+        <path class="st12" d="M332.2,157.9l-3.1-6.3h6.3l-3.1,6.3Z"/>
+        <text class="st7" transform="translate(338.9 230)"><tspan x="0" y="0">Involution</tspan></text>
+        <path class="st13" d="M390.1,158.9c3.5,0,6.3,2.8,6.3,6.3v43.9c0,3.5-2.8,6.3-6.3,6.3h-112.8c-3.5,0-6.3-2.8-6.3-6.3v-43.9c0-3.5,2.8-6.3,6.3-6.3h112.8Z"/>
+        <text class="st9" transform="translate(282.3 175)"><tspan x="0" y="0">1. </tspan></text>
+        <text class="st6" transform="translate(290.6 175)"><tspan x="0" y="0">位置特定卷积核</tspan></text>
+        <text class="st9" transform="translate(343.3 175)"><tspan x="0" y="0" xml:space="preserve"> × </tspan></text>
+        <text class="st6" transform="translate(351.9 175)"><tspan x="0" y="0">局部区域</tspan></text>
+        <text class="st9" transform="translate(282.3 189)"><tspan x="0" y="0">2. </tspan></text>
+        <text class="st6" transform="translate(290.6 189)"><tspan x="0" y="0">沿</tspan></text>
+        <text class="st9" transform="translate(298.1 189)"><tspan x="0" y="0">kernel_size</tspan></text>
+        <text class="st6" transform="translate(336.2 189)"><tspan x="0" y="0">维度求和</tspan></text>
+        <text class="st9" transform="translate(282.3 203)"><tspan x="0" y="0">3. </tspan></text>
+        <text class="st6" transform="translate(290.6 203)"><tspan x="0" y="0">生成输出特征</tspan></text>
+        <path class="st1" d="M332.2,215.5v29.1"/>
+        <path class="st24" d="M332.2,244.7l-4.5-9.7h8.9l-4.5,9.7Z"/>
+        <path class="st1" d="M120.9,212.4v14.6"/>
+        <path class="st1" d="M120.9,227h211.4"/>
+        <text class="st10" transform="translate(232.2 260)"><tspan x="0" y="0">输出特征</tspan></text>
+        <text class="st7" transform="translate(267.3 260)"><tspan x="0" y="0">:</tspan></text>
+        <path class="st16" d="M278.1,244.7h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st16" d="M303.2,244.7h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st16" d="M328.2,244.7h25.1v25.1h-25.1v-25.1Z"/>
+        <path class="st16" d="M353.3,244.7h25.1v25.1h-25.1v-25.1Z"/>
+        <text class="st9" transform="translate(288.5 260)"><tspan x="0" y="0">0</tspan></text>
+        <text class="st9" transform="translate(313.6 260)"><tspan x="0" y="0">1</tspan></text>
+        <text class="st9" transform="translate(338.6 260)"><tspan x="0" y="0">2</tspan></text>
+        <text class="st9" transform="translate(363.7 260)"><tspan x="0" y="0">3</tspan></text>
+        <path class="st2" d="M125.4,42.5v6.3h31.3v25.1"/>
+        <path class="st2" d="M188.1,42.5v6.3h144.2v25.1"/>
+        <path class="st3" d="M2.8,157.9h254.2v54H2.8v-54Z"/>
+        <text class="st8" transform="translate(77.7 193) scale(1.1 1)"><tspan x="0" y="0">...</tspan></text>
+        <text class="st8" transform="translate(159.9 193) scale(1.1 1)"><tspan x="0" y="0">...</tspan></text>
+        <text class="st8" transform="translate(242.4 193) scale(1.1 1)"><tspan x="0" y="0">...</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
